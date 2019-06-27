@@ -1,0 +1,21 @@
+C:\Users\Галя\source\repos\2_ZD\2_ZD\bin\Debug\2_ZD.exe.config
+C:\Users\Галя\source\repos\2_ZD\2_ZD\bin\Debug\2_ZD.exe
+C:\Users\Галя\source\repos\2_ZD\2_ZD\bin\Debug\2_ZD.pdb
+C:\Users\Галя\source\repos\2_ZD\2_ZD\obj\Debug\2_ZD.csprojAssemblyReference.cache
+C:\Users\Галя\source\repos\2_ZD\2_ZD\obj\Debug\2_ZD.csproj.CoreCompileInputs.cache
+C:\Users\Галя\source\repos\2_ZD\2_ZD\obj\Debug\2_ZD.exe
+C:\Users\Галя\source\repos\2_ZD\2_ZD\obj\Debug\2_ZD.pdb
+C:\Users\Галя\Desktop\домашка ВШЭ\учебная практика\2_ZD\2_ZD\bin\Debug\2_ZD.exe.config
+C:\Users\Галя\Desktop\домашка ВШЭ\учебная практика\2_ZD\2_ZD\bin\Debug\2_ZD.exe
+C:\Users\Галя\Desktop\домашка ВШЭ\учебная практика\2_ZD\2_ZD\bin\Debug\2_ZD.pdb
+C:\Users\Галя\Desktop\домашка ВШЭ\учебная практика\2_ZD\2_ZD\obj\Debug\2_ZD.csprojAssemblyReference.cache
+C:\Users\Галя\Desktop\домашка ВШЭ\учебная практика\2_ZD\2_ZD\obj\Debug\2_ZD.csproj.CoreCompileInputs.cache
+C:\Users\Галя\Desktop\домашка ВШЭ\учебная практика\2_ZD\2_ZD\obj\Debug\2_ZD.exe
+C:\Users\Галя\Desktop\домашка ВШЭ\учебная практика\2_ZD\2_ZD\obj\Debug\2_ZD.pdb
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\2_ZD\2_ZD\bin\Debug\2_ZD.exe.config
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\2_ZD\2_ZD\bin\Debug\2_ZD.exe
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\2_ZD\2_ZD\bin\Debug\2_ZD.pdb
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\2_ZD\2_ZD\obj\Debug\2_ZD.csprojAssemblyReference.cache
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\2_ZD\2_ZD\obj\Debug\2_ZD.csproj.CoreCompileInputs.cache
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\2_ZD\2_ZD\obj\Debug\2_ZD.exe
+C:\Users\Галя\Desktop\домашка ВШЭ\1 КУРС\учебная практика\2_ZD\2_ZD\obj\Debug\2_ZD.pdb
